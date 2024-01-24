@@ -70,3 +70,4 @@ In `buildPlayers()`, instead of using for loop, use chaining of Array methods - 
 Host your completed lab project in GitHub and submit your project repository link in this [form](https://docs.google.com/forms/d/1FsIKaMGG8g_xISwHg0oGVQJpgHCXVRQGSQmpytu-b_o/viewform?usp=pp_url&entry.1483932328=CSK101-M2-L74.2).
 
 Happy Coding ❤️
+SpecRunner.html
